@@ -5,6 +5,7 @@ public class Chercheur {
 	private int id;
 	private String nom;
 	private String poste;
+	private String n;
 	private int nmac;
 	private static int count;
 	
